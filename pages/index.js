@@ -6,14 +6,17 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Mustafa Albazy</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Mustafa Albazy" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Welcome to my personal site. The site still under construction and hopefully will get ready within a month.
+          <br>
+          For now you can check my Arabic blog on https://www.albazy.com/
+          <br>
         </p>
       </main>
 
