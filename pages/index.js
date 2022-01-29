@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Mustafa Albazy" />
         <p className="description">
           Welcome to my personal site. The site still under construction and hopefully will get ready within a month.
-          <br>
+          <br />
           For now you can check my Arabic blog on https://www.albazy.com/
         </p>
       </main>
